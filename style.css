@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(210, 230, 98);
+}
+
+#origami1{
+   background-color:rgb(114, 95, 236);
+}
+
+#origami2{
+  background-color:rgb(120, 100, 250); 
+}
+
+.line {
+    height: 6px;
+    background-color: rgb(11, 11, 228);
+    width: 70px;
+    margin: 8px auto;
+}
